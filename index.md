@@ -1,28 +1,11 @@
 # ASLAM K
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-i changed the header to my name.
+changed header to my name .
+image added.
